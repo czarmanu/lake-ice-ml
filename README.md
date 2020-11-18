@@ -3,11 +3,17 @@
 
 This is a consolidated repository outlining our research works on lake ice monitoring using machine (deep) learning approaches. These works are part of the two projects ([LIP1](https://prs.igp.ethz.ch/research/completed_projects/integrated-monitoring-of-ice-in-selected-swiss-lakes.html), [LIP2](https://prs.igp.ethz.ch/research/current_projects/integrated-lake-ice-monitoring-and-generation-of-sustainable--re.html)) funded by [MeteoSwiss](https://www.meteoswiss.admin.ch/) under the [GCOS Switzerland](https://www.meteoswiss.admin.ch/home/research-and-cooperation/international-cooperation/gcos.html) framework.
 
+
 ## Contents
 
-[1. Ice Monitoring in Swiss Lakes from Optical Satellites and Webcams Using Machine Learning](#rs_mdpi_2020)
+>[1. Lake Ice Detection from Sentinel-1 SAR with Deep Learning](#isprs_sar_2020)<br>
+>[2. Ice Monitoring in Swiss Lakes from Optical Satellites and Webcams Using Machine Learning](#rs_mdpi_2020)<br>
+>[3. Photi-LakeIce Webcam Dataset](#PLI_dataset)<br>
+>[4. Lake Ice Detection in Crowd-sourced images using Deep-U-Lab](#crowd_sourced)<br>
+>[5. Lake Ice Monitoring with Webcams using Tiramisu Network](#tiramisu)<br>
 
-## Lake Ice Detection from Sentinel-1 SAR with Deep Learning 
+
+## <a name="isprs_sar_2020">1. Lake Ice Detection from Sentinel-1 SAR with Deep Learning</a>
 
 <img src="figures/title_figure_isprs2020_sar_paper.jpg" alt="drawing" width="500"/>
 
@@ -26,12 +32,9 @@ Please cite the following paper if you use this project in your research:
 >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;volume    = {V-3-2020},<br>
 >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;pages     = {409--416},<br>
 }
-[link text](#abcde)
 
 
-<a name="rs_mdpi_2020">
-## Ice Monitoring in Swiss Lakes from Optical Satellites and Webcams Using Machine Learning
-</a>
+## <a name="rs_mdpi_2020">2. Ice Monitoring in Swiss Lakes from Optical Satellites and Webcams Using Machine Learning</a>
 
 <img src="figures/graphical_abstract_rs2020_paper.png" alt="drawing" width="500"/>
 
@@ -51,7 +54,8 @@ Kindly cite the following paper, if you use this project in your research:
 >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;pages     = {3555},<br>
 }
     
-## Photi-LakeIce Dataset
+
+## <a name="PLI_dataset">3. Photi-LakeIce Webcam Dataset</a>
 
 <img src="figures/photi-lake-ice_dataset.png" alt="drawing" width="500"/>
 
@@ -69,7 +73,8 @@ Kindly cite the following paper, if you use this dataset in your research:
 >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;pages     = {3555},<br>
 }
 
-## Lake Ice Detection in Crowd-sourced images using Deep-U-Lab
+
+## <a name="crowd_sourced">4. Lake Ice Detection in Crowd-sourced images using Deep-U-Lab</a>
 
 <img src="figures/crowd-sourced_isprs2020_webcam_paper.png" alt="drawing" width="500"/>
 
@@ -86,7 +91,8 @@ Kindly cite the following paper, if you use this research in your work:
 >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;pages     = {549--556},<br>
 }
 
-## Lake Ice Monitoring with Webcams using Tiramisu Network
+
+## <a name="tiramisu">5. Lake Ice Monitoring with Webcams using Tiramisu Network</a>
 
 <img src="figures/webcams_tiramisu_isprs2018.png" alt="drawing" width="500"/>
 
@@ -103,16 +109,17 @@ Please cite the following paper, if you use this project in your research:
 >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;pages     = {311--317},<br>
 }
 
-## Automatic Lake Detection using Deep-U-Lab
+
+## 6. Automatic Lake Detection using Deep-U-Lab
 
 <img src="figures/lake_detection_rs2020.png" alt="drawing" width="500"/>
 
 Details coming soon ...
 
+
 ## Other related publications
 
->1. Tom et al. 2020: [Integrated monitoring of ice
-in selected Swiss lakes](https://arxiv.org/abs/2008.00512). Final Project Report, 2020
+>1. Tom et al. 2020: [Integrated monitoring of ice in selected Swiss lakes](https://arxiv.org/abs/2008.00512). Final Project Report, 2020
 
 >2. Tom et al. 2018: [Lake ice detection in low-resolution optical satellite images](https://www.isprs-ann-photogramm-remote-sens-spatial-inf-sci.net/IV-2/279/2018/). 
 
