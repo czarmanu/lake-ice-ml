@@ -1,4 +1,4 @@
-# Lake Ice Monitoring from Earth and Space with Machine (Deep) Learning
+# Multi-Sensor Lake Ice Monitoring with Machine (Deep) Learning
 
 
 This is a consolidated repository outlining our research works on lake ice monitoring using machine (deep) learning approaches. These works are part of the two projects ([LIP1](https://prs.igp.ethz.ch/research/completed_projects/integrated-monitoring-of-ice-in-selected-swiss-lakes.html), [LIP2](https://prs.igp.ethz.ch/research/current_projects/integrated-lake-ice-monitoring-and-generation-of-sustainable--re.html)) funded by [MeteoSwiss](https://www.meteoswiss.admin.ch/) under the [GCOS Switzerland](https://www.meteoswiss.admin.ch/home/research-and-cooperation/international-cooperation/gcos.html) framework.
@@ -102,13 +102,25 @@ Please cite the following paper, if you use this project in your research:
 
 Details coming soon ...
 
+## Other related publications
+
+>1. Tom et al. 2020: [Integrated monitoring of ice
+in selected Swiss lakes](https://arxiv.org/abs/2008.00512). Final Project Report, 2020
+
+>2. Tom et al. 2018: [Lake ice detection in low-resolution optical satellite images](https://www.isprs-ann-photogramm-remote-sens-spatial-inf-sci.net/IV-2/279/2018/). 
+
+>3. Rothermel et al. 2018: [Monitoring der vereisung von Schweizer seen mit webcams](https://ethz.ch/content/dam/ethz/special-interest/baug/igp/photogrammetry-remote-sensing-dam/documents/pdf/Papers/Webcams_Geomatik_9-2018.pdf)
+
+>4. Tom et al. 2017: [Ice detection in Swiss lakes using MODIS data](https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/236400/1/Tom_ETHZ_ACRS17.pdf)
+
+
 ## Licence
 
 MIT License
 
 Copyright (c) 2020 ETH Zurich
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of these softwares and associated documentation files (the "Software"), to deal
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
 copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
