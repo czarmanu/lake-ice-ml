@@ -1,7 +1,7 @@
 # Multi-Sensor Lake Ice Monitoring with Machine (Deep) Learning
 
 
-This is a consolidated repository outlining our research works on lake ice monitoring using machine (deep) learning approaches. These works are part of the two projects ([LIP1](https://prs.igp.ethz.ch/research/completed_projects/integrated-monitoring-of-ice-in-selected-swiss-lakes.html), [LIP2](https://prs.igp.ethz.ch/research/current_projects/integrated-lake-ice-monitoring-and-generation-of-sustainable--re.html)) funded by [MeteoSwiss](https://www.meteoswiss.admin.ch/) under the [GCOS Switzerland](https://www.meteoswiss.admin.ch/home/research-and-cooperation/international-cooperation/gcos.html) framework.
+This is a consolidated repository outlining our research works on lake ice monitoring using machine (deep) learning approaches. These works are part of the two projects ([LIP1](https://prs.igp.ethz.ch/research/completed_projects/integrated-monitoring-of-ice-in-selected-swiss-lakes.html), [LIP2](https://prs.igp.ethz.ch/research/current_projects/integrated-lake-ice-monitoring-and-generation-of-sustainable--re.html)) at ETH Zurich funded by [MeteoSwiss](https://www.meteoswiss.admin.ch/) under the [GCOS Switzerland](https://www.meteoswiss.admin.ch/home/research-and-cooperation/international-cooperation/gcos.html) framework.
 
 
 ## Contents
@@ -119,13 +119,15 @@ Details coming soon ...
 
 ## Other related publications
 
->1. Tom et al. 2020: [Integrated monitoring of ice in selected Swiss lakes](https://arxiv.org/abs/2008.00512). Final Project Report, 2020
+>1. Tom, M., Suetterlin, M., Bouffard, D., Rothermel, M., Wunderle, S., and Baltsavias, E.: [Integrated monitoring of ice in selected Swiss lakes](https://arxiv.org/abs/2008.00512). Final Project Report, 2020.
 
->2. Tom et al. 2018: [Lake ice detection in low-resolution optical satellite images](https://www.isprs-ann-photogramm-remote-sens-spatial-inf-sci.net/IV-2/279/2018/). 
+>2. Tom, M., Kälin, U., Sütterlin, M., Baltsavias, E., and Schindler, K.: [Lake ice detection in low-resolution optical satellite images](https://www.isprs-ann-photogramm-remote-sens-spatial-inf-sci.net/IV-2/279/2018/), ISPRS Ann. Photogramm. Remote Sens. Spatial Inf. Sci., IV-2, 279–286, https://doi.org/10.5194/isprs-annals-IV-2-279-2018, 2018.
 
->3. Rothermel et al. 2018: [Monitoring der vereisung von Schweizer seen mit webcams](https://ethz.ch/content/dam/ethz/special-interest/baug/igp/photogrammetry-remote-sensing-dam/documents/pdf/Papers/Webcams_Geomatik_9-2018.pdf)
+>3. Rothermel, M., Xiao, M., Tom, M., Baltsavias, E., and Schindler, K. : [Monitoring der vereisung von Schweizer seen mit webcams](https://ethz.ch/content/dam/ethz/special-interest/baug/igp/photogrammetry-remote-sensing-dam/documents/pdf/Papers/Webcams_Geomatik_9-2018.pdf), Geomatik Schweiz, 9/2018, 268--271, 2018.
 
->4. Tom et al. 2017: [Ice detection in Swiss lakes using MODIS data](https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/236400/1/Tom_ETHZ_ACRS17.pdf)
+>4. Tom, M., Sütterlin, M., Bouffard, D., Rothermel, M., Hamann, U., Duguay-Tetzlaff, A., Wunderle, S., Baltsavias, E.: [Integrated lake ice monitoring in Swiss lakes](https://ethz.ch/content/dam/ethz/special-interest/baug/igp/photogrammetry-remote-sensing-dam/documents/pdf/Papers/Tom_Eumetsat2018.pdf), EUMETSAT - Meteorological Satellite Conference, Tallinn, Estonia, 17-21 September 2018.
+
+>5. Tom M., Lanaras, C., Baltsavias, E., and Schindler, K.: [Ice detection in Swiss lakes using MODIS data](https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/236400/1/Tom_ETHZ_ACRS17.pdf), In Proceedings of the Asian Conference on Remote Sensing, New Delhi, India, 23–27 October 2017.
 
 
 ## Licence
