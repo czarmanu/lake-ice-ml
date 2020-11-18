@@ -3,6 +3,9 @@
 
 This is a consolidated repository outlining our research works on lake ice monitoring using machine (deep) learning approaches. These works are part of the two projects ([LIP1](https://prs.igp.ethz.ch/research/completed_projects/integrated-monitoring-of-ice-in-selected-swiss-lakes.html), [LIP2](https://prs.igp.ethz.ch/research/current_projects/integrated-lake-ice-monitoring-and-generation-of-sustainable--re.html)) funded by [MeteoSwiss](https://www.meteoswiss.admin.ch/) under the [GCOS Switzerland](https://www.meteoswiss.admin.ch/home/research-and-cooperation/international-cooperation/gcos.html) framework.
 
+## Contents
+
+[1. Ice Monitoring in Swiss Lakes from Optical Satellites and Webcams Using Machine Learning](#rs_mdpi_2020)
 
 ## Lake Ice Detection from Sentinel-1 SAR with Deep Learning 
 
@@ -23,8 +26,12 @@ Please cite the following paper if you use this project in your research:
 >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;volume    = {V-3-2020},<br>
 >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;pages     = {409--416},<br>
 }
-    
+[link text](#abcde)
+
+
+<a name="rs_mdpi_2020">
 ## Ice Monitoring in Swiss Lakes from Optical Satellites and Webcams Using Machine Learning
+</a>
 
 <img src="figures/graphical_abstract_rs2020_paper.png" alt="drawing" width="500"/>
 
