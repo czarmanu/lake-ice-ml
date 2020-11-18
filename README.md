@@ -46,6 +46,8 @@ Kindly cite the following paper, if you use this project in your research:
     
 ## Photi-LakeIce Dataset
 
+<img src="figures/photi-lake-ice_dataset.png" alt="drawing" width="500"/>
+
 The dataset and pre-trained model (Deep-U-Lab) can be found [here](https://github.com/czarmanu/photi-lakeice-dataset).
 
 Kindly cite the following paper, if you use this dataset in your research:
@@ -62,6 +64,8 @@ Kindly cite the following paper, if you use this dataset in your research:
 
 ## Lake Ice Detection in Crowd-sourced images using Deep-U-Lab
 
+<img src="figures/crowd-sourced_isprs2020_webcam_paper.png" alt="drawing" width="500"/>
+
 More details [here](https://github.com/czarmanu/deeplab-lakeice-webcams).
 
 Kindly cite the following paper, if you use this research in your work:
@@ -76,6 +80,8 @@ Kindly cite the following paper, if you use this research in your work:
 }
 
 ## Lake Ice Monitoring with Webcams using Tiramisu Network
+
+<img src="figures/webcams_tiramisu_isprs2018.png" alt="drawing" width="500"/>
 
 More details [here](https://github.com/czarmanu/tiramisu_keras).
 
@@ -92,5 +98,7 @@ Please cite the following paper, if you use this project in your research:
 
 ## Automatic Lake Detection using Deep-U-Lab
 
-coming soon ...
+<img src="figures/lake_detection_rs2020.png" alt="drawing" width="500"/>
+
+Details coming soon ...
 
