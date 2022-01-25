@@ -9,8 +9,10 @@ This is a consolidated repository outlining our research works on lake ice monit
 >[1. Lake Ice Detection from Sentinel-1 SAR with Deep Learning](#isprs_sar_2020)<br>
 >[2. Ice Monitoring in Swiss Lakes from Optical Satellites and Webcams Using Machine Learning](#rs_mdpi_2020)<br>
 >[3. Photi-LakeIce Webcam Dataset](#PLI_dataset)<br>
->[4. Lake Ice Detection in Crowd-sourced images using Deep-U-Lab](#crowd_sourced)<br>
->[5. Lake Ice Monitoring with Webcams using Tiramisu Network](#tiramisu)<br>
+>[4. Recent Ice Trends in Swiss Mountain Lakes: 20-year Analysis of MODIS Imagery]<br>
+>[5. Learning a Sensor-invariant Embedding of Satellite Data: A Case Study for Lake Ice Monitoring]<br>
+>[6. Lake Ice Detection in Crowd-sourced images using Deep-U-Lab](#crowd_sourced)<br>
+>[7. Lake Ice Monitoring with Webcams using Tiramisu Network](#tiramisu)<br>
 
 
 ## <a name="isprs_sar_2020">1. Lake Ice Detection from Sentinel-1 SAR with Deep Learning</a>
