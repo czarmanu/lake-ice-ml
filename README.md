@@ -119,10 +119,10 @@ Code coming soon.
 
 Please cite the following paper, if you use this project in your research:
 
-> @article{xiao_rothermel_2018:isprs,<br>
+> @article{tom_wu_2021:arxiv,<br>
 >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;author    = {Manu Tom and Tianyu Wu and Emmanuel Baltsavias and Konrad Schindler},<br>
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;title    = {Recent Ice Trends in Swiss Mountain Lakes: 20-year Analysis of MODIS Imagery},<br>
->&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;journal   = {arXiv preprint},<br>
+>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;journal   = {arXiv pre-print, arXiv:2103.12434v1},<br>
 >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;year      = {2021},<br>
 >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;volume    = {},<br>
 >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;pages     = {},<br>
@@ -130,14 +130,14 @@ Please cite the following paper, if you use this project in your research:
 
 ## <a name="satellite_embedding">7. Learning a Sensor-invariant Embedding of Satellite Data: A Case Study for Lake Ice Monitoring</a>
 
-Access the preprint [here](https://arxiv.org/abs/2107.09092).
+Access the preprint [here](https://arxiv.org/abs/2107.09092). Code will be published soon.
 
 Please cite the following paper, if you use this project in your research:
 
-> @article{xiao_rothermel_2018:isprs,<br>
+> @article{tom_jiang_2021:arxiv,<br>
 >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;author    = {Manu Tom and Yuchang Jiang and Emmanuel Baltsavias and Konrad Schindler},<br>
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;title    = {Learning a Sensor-invariant Embedding of Satellite Data: A Case Study for Lake Ice Monitoring},<br>
->&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;journal   = {arXiv preprint},<br>
+>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;journal   = {arXiv pre-print, arXiv:2107.09092v1},<br>
 >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;year      = {2021},<br>
 >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;volume    = {},<br>
 >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;pages     = {},<br>
