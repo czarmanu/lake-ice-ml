@@ -95,24 +95,8 @@ Kindly cite the following paper, if you use this research in your work:
 }
 
 
-## <a name="tiramisu">5. Lake Ice Monitoring with Webcams using Tiramisu Network</a>
 
-<img src="figures/webcams_tiramisu_isprs2018.png" alt="drawing" width="500"/>
-
-More details [here](https://github.com/czarmanu/tiramisu_keras).
-
-Please cite the following paper, if you use this project in your research:
-
-> @article{xiao_rothermel_2018:isprs,<br>
->&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;author    = {Muyan Xiao and Mathias Rothermel and Manu Tom and Silvano Galliani and Emmanuel Baltsavias and Konrad Schindler},<br>
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;title    = {Lake Ice Monitoring with Webcams},<br>
->&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;journal   = {ISPRS Ann. Photogramm. Remote Sens. Spatial Inf. Sci.},<br>
->&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;year      = {2018},<br>
->&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;volume    = {IV-2},<br>
->&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;pages     = {311--317},<br>
-}
-
-## <a name="time_series">6. Recent Ice Trends in Swiss Mountain Lakes: 20-year Analysis of MODIS Imagery</a>
+## <a name="time_series">5. Recent Ice Trends in Swiss Mountain Lakes: 20-year Analysis of MODIS Imagery</a>
 
 Access the preprint [here](https://arxiv.org/abs/2103.12434). 
 Code coming soon.
@@ -128,7 +112,7 @@ Please cite the following paper, if you use this project in your research:
 >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;pages     = {},<br>
 }
 
-## <a name="satellite_embedding">7. Learning a Sensor-invariant Embedding of Satellite Data: A Case Study for Lake Ice Monitoring</a>
+## <a name="satellite_embedding">6. Learning a Sensor-invariant Embedding of Satellite Data: A Case Study for Lake Ice Monitoring</a>
 
 Access the preprint [here](https://arxiv.org/abs/2107.09092). Code will be published soon.
 
@@ -141,6 +125,24 @@ Please cite the following paper, if you use this project in your research:
 >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;year      = {2021},<br>
 >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;volume    = {},<br>
 >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;pages     = {},<br>
+}
+
+
+## <a name="tiramisu">7. Lake Ice Monitoring with Webcams using Tiramisu Network</a>
+
+<img src="figures/webcams_tiramisu_isprs2018.png" alt="drawing" width="500"/>
+
+More details [here](https://github.com/czarmanu/tiramisu_keras).
+
+Please cite the following paper, if you use this project in your research:
+
+> @article{xiao_rothermel_2018:isprs,<br>
+>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;author    = {Muyan Xiao and Mathias Rothermel and Manu Tom and Silvano Galliani and Emmanuel Baltsavias and Konrad Schindler},<br>
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;title    = {Lake Ice Monitoring with Webcams},<br>
+>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;journal   = {ISPRS Ann. Photogramm. Remote Sens. Spatial Inf. Sci.},<br>
+>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;year      = {2018},<br>
+>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;volume    = {IV-2},<br>
+>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;pages     = {311--317},<br>
 }
 
 
