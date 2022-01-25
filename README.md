@@ -77,26 +77,7 @@ Kindly cite the following paper, if you use this dataset in your research:
 }
 
 
-## <a name="crowd_sourced">4. Lake Ice Detection in Crowd-sourced images using Deep-U-Lab</a>
-
-<img src="figures/crowd-sourced_isprs2020_webcam_paper.png" alt="drawing" width="500"/>
-
-More details [here](https://github.com/czarmanu/deeplab-lakeice-webcams).
-
-Kindly cite the following paper, if you use this research in your work:
-
-> @article{prabha_tom_2020:isprs,<br>
->&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;author    = {Rajanie Prabha and Manu Tom and Mathias Rothermel and Emmanuel Baltsavias and Laura Leal-Taixe and Konrad Schindler},<br>
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;title    = {Lake Ice Monitoring with Webcams and Crowd-Sourced Images},<br>
->&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;journal   = {ISPRS Ann. Photogramm. Remote Sens. Spatial Inf. Sci.},<br>
->&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;year      = {2020},<br>
->&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;volume    = {V-2-2020},<br>
->&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;pages     = {549--556},<br>
-}
-
-
-
-## <a name="time_series">5. Recent Ice Trends in Swiss Mountain Lakes: 20-year Analysis of MODIS Imagery</a>
+## <a name="time_series">4. Recent Ice Trends in Swiss Mountain Lakes: 20-year Analysis of MODIS Imagery</a>
 
 Access the preprint [here](https://arxiv.org/abs/2103.12434). 
 Code coming soon.
@@ -112,7 +93,7 @@ Please cite the following paper, if you use this project in your research:
 >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;pages     = {},<br>
 }
 
-## <a name="satellite_embedding">6. Learning a Sensor-invariant Embedding of Satellite Data: A Case Study for Lake Ice Monitoring</a>
+## <a name="satellite_embedding">5. Learning a Sensor-invariant Embedding of Satellite Data: A Case Study for Lake Ice Monitoring</a>
 
 Access the preprint [here](https://arxiv.org/abs/2107.09092). Code will be published soon.
 
@@ -125,6 +106,24 @@ Please cite the following paper, if you use this project in your research:
 >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;year      = {2021},<br>
 >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;volume    = {},<br>
 >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;pages     = {},<br>
+}
+
+
+## <a name="crowd_sourced">6. Lake Ice Detection in Crowd-sourced images using Deep-U-Lab</a>
+
+<img src="figures/crowd-sourced_isprs2020_webcam_paper.png" alt="drawing" width="500"/>
+
+More details [here](https://github.com/czarmanu/deeplab-lakeice-webcams).
+
+Kindly cite the following paper, if you use this research in your work:
+
+> @article{prabha_tom_2020:isprs,<br>
+>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;author    = {Rajanie Prabha and Manu Tom and Mathias Rothermel and Emmanuel Baltsavias and Laura Leal-Taixe and Konrad Schindler},<br>
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;title    = {Lake Ice Monitoring with Webcams and Crowd-Sourced Images},<br>
+>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;journal   = {ISPRS Ann. Photogramm. Remote Sens. Spatial Inf. Sci.},<br>
+>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;year      = {2020},<br>
+>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;volume    = {V-2-2020},<br>
+>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;pages     = {549--556},<br>
 }
 
 
