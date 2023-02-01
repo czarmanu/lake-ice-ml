@@ -9,7 +9,7 @@ This consolidated repository outlines our research work on lake ice monitoring u
 >[2. Ice Monitoring in Swiss Lakes from Optical Satellites and Webcams Using Machine Learning](#rs_mdpi_2020)<br>
 >[3. Photi-LakeIce Webcam Dataset](#PLI_dataset)<br>
 >[4. Recent Ice Trends in Swiss Mountain Lakes: 20-year Analysis of MODIS Imagery](#time_series)<br>
->[5. Learning a Sensor-invariant Embedding of Satellite Data: A Case Study for Lake Ice Monitoring](#satellite_embedding)<br>
+>[5. Learning a Joint Embedding of Multiple Satellite Sensorsa: A Case Study for Lake Ice Monitoring](#satellite_embedding)<br>
 >[6. Lake Ice Detection in Crowd-sourced images using Deep-U-Lab](#crowd_sourced)<br>
 >[7. Lake Ice Monitoring with Webcams using Tiramisu Network](#tiramisu)<br>
 >[8. Automatic Lake Detection using Deep-U-Lab](#tiramisu)<br>
