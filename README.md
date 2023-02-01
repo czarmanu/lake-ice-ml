@@ -86,7 +86,7 @@ Code coming soon!
 
 Please cite the following paper, if you use this project in your research:
 
-> @article{tom_wu_2021:arxiv,<br>
+> @article{tom_wu_2022:pfg,<br>
 >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;author    = {Manu Tom and Tianyu Wu and Emmanuel Baltsavias and Konrad Schindler},<br>
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;title    = {Recent Ice Trends in Swiss Mountain Lakes: 20-year Analysis of MODIS Imagery},<br>
 >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;journal   = {PFG},<br>
@@ -105,7 +105,7 @@ Code will be published soon!
 
 Please cite the following paper, if you use this project in your research:
 
-> @article{tom_jiang_2021:arxiv,<br>
+> @article{tom_jiang_2022:tgrs,<br>
 >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;author    = {Manu Tom and Yuchang Jiang and Emmanuel Baltsavias and Konrad Schindler},<br>
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;title    = {Learning a Joint Embedding of Multiple Satellite Sensors: A Case Study for Lake Ice Monitoring},<br>
 >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;journal   = {IEEE Transactions on Geoscience and Remote Sensing},<br>
