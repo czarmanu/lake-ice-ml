@@ -78,33 +78,40 @@ Kindly cite the following paper, if you use this dataset in your research:
 
 ## <a name="time_series">4. Recent Ice Trends in Swiss Mountain Lakes: 20-year Analysis of MODIS Imagery</a>
 
-Access the preprint [here](https://arxiv.org/abs/2103.12434). 
-Code coming soon.
+This work was published in the Springer PFG journal. Access the paper [here](https://link.springer.com/article/10.1007/s41064-022-00215-x).
+
+We report a study for the Oberengadin region of Switzerland, where several small- and medium-sized mountain lakes are located. We observe the LIP events, such as freeze-up, break-up and ice cover duration, across two decades (2000–2020) from optical satellite images. We analyse the time series of MODIS imagery by estimating spatially resolved maps of lake ice for these Alpine lakes with supervised machine learning. From the ice maps, we derive long-term LIP trends. We find a change in complete freeze duration of −0.76 and −0.89 days per annum for lakes Sils and Silvaplana, respectively. Furthermore, we observe plausible correlations of the LIP trends with climate data measured at nearby meteorological stations.
+
+Code coming soon!
 
 Please cite the following paper, if you use this project in your research:
 
 > @article{tom_wu_2021:arxiv,<br>
 >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;author    = {Manu Tom and Tianyu Wu and Emmanuel Baltsavias and Konrad Schindler},<br>
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;title    = {Recent Ice Trends in Swiss Mountain Lakes: 20-year Analysis of MODIS Imagery},<br>
->&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;journal   = {arXiv pre-print, arXiv:2103.12434v1},<br>
->&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;year      = {2021},<br>
->&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;volume    = {},<br>
->&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;pages     = {},<br>
+>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;journal   = {PFG},<br>
+>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;year      = {2022},<br>
+>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;volume    = {90},<br>
+>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;pages     = {413–431},<br>
 }
 
 ## <a name="satellite_embedding">5. Learning a Sensor-invariant Embedding of Satellite Data: A Case Study for Lake Ice Monitoring</a>
 
-Access the preprint [here](https://arxiv.org/abs/2107.09092). Code will be published soon.
+This work was published in the IEEE Transactions on Geoscience and Remote Sensing. Access the paper [here](https://ieeexplore.ieee.org/document/9906117).
+
+In this work, we explore the joint analysis of imagery from different sensors in the light of representation learning: we propose to learn a joint embedding of multiple satellite sensors within a deep neural network. To reach the temporal resolution requirement of the Swiss GCOS office, we combine three image sources: Sentinel-1 SAR, Terra MODIS, VIIRS. Our approach can be classified as a late fusion that is learned in a data-driven manner. The proposed network architecture has separate encoding branches for each image sensor, which feed into a single latent embedding, i.e., a common feature representation shared by all inputs, such that subsequent processing steps deliver comparable output irrespective of which sort of input image was used. By fusing satellite data, we map lake ice at a temporal resolution of <1.5 days.
+
+Code will be published soon!
 
 Please cite the following paper, if you use this project in your research:
 
 > @article{tom_jiang_2021:arxiv,<br>
 >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;author    = {Manu Tom and Yuchang Jiang and Emmanuel Baltsavias and Konrad Schindler},<br>
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;title    = {Learning a Sensor-invariant Embedding of Satellite Data: A Case Study for Lake Ice Monitoring},<br>
->&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;journal   = {arXiv pre-print, arXiv:2107.09092v1},<br>
->&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;year      = {2021},<br>
->&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;volume    = {},<br>
->&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;pages     = {},<br>
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;title    = {Learning a Joint Embedding of Multiple Satellite Sensors: A Case Study for Lake Ice Monitoring},<br>
+>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;journal   = {IEEE Transactions on Geoscience and Remote Sensing},<br>
+>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;year      = {2022},<br>
+>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;volume    = {60, Art no. 4306315},<br>
+>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;pages     = {1-15},<br>
 }
 
 
