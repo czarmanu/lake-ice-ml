@@ -1,7 +1,8 @@
-# Lake Ice Monitoring from Earth and Space with Machine (Deep) Learning
+# Lake Ice Monitoring from Space and Earth with Machine (Deep) Learning
 
 This consolidated repository outlines our research work on lake ice monitoring using machine (deep) learning approaches. These works are part of the two projects ([LIP1](https://prs.igp.ethz.ch/research/completed_projects/integrated-monitoring-of-ice-in-selected-swiss-lakes.html), [LIP2](https://prs.igp.ethz.ch/research/current_projects/integrated-lake-ice-monitoring-and-generation-of-sustainable--re.html)) at ETH Zurich (funded by [MeteoSwiss](https://www.meteoswiss.admin.ch/) under the [GCOS Switzerland](https://www.meteoswiss.admin.ch/home/research-and-cooperation/international-cooperation/gcos.html) framework).
 
+PhD thesis of Manu Tom can be accessed [here](https://www.research-collection.ethz.ch/handle/20.500.11850/513831).
 
 ## Contents
 
