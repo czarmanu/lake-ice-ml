@@ -40,9 +40,9 @@ Please cite the following paper if you use this project in your research:
 
 <img src="figures/graphical_abstract_rs2020_paper.png" alt="drawing" width="500"/>
 
-This work was published at the [MDPI Remote Sensing](https://www.mdpi.com/journal/remotesensing) journal. Access the paper [here](https://www.mdpi.com/2072-4292/12/21/3555).
+This work was published in the [MDPI Remote Sensing](https://www.mdpi.com/journal/remotesensing) journal. Access the paper [here](https://www.mdpi.com/2072-4292/12/21/3555).
 
-We detect lake ice in MODIS and VIIRS optical satellite images using support vector machines aided by an automatic feature seclection by XGBoost. Here, we cast lake ice detection as a 2-class (frozen, non-frozen) classification problem. Additionally, we use the freely available (online) webcam data to monitor lake ice using Deep-U-Lab network. Access the tensorflow-based repository [here](https://github.com/czarmanu/deeplab-lakeice-webcams) to browse the Deep-U-Lab code, pre-trained model etc.
+We detect lake ice in MODIS and VIIRS optical satellite images using support vector machines aided by an automatic feature selection by XGBoost. Here, we cast lake ice detection as a 2-class (frozen, non-frozen) classification problem. Additionally, we use the freely available (online) webcam data to monitor lake ice using the Deep-U-Lab network. Access the tensorflow-based repository [here](https://github.com/czarmanu/deeplab-lakeice-webcams) to browse the Deep-U-Lab code, pre-trained model etc.
 
 Kindly cite the following paper, if you use this project in your research:
 
